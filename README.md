@@ -1,6 +1,7 @@
 # W7-Kaggle_competition
 
-![portada](https://github.com/ironhack-datalabs/datamad1020-rev/blob/master/projects/W6-api-sentiment-project/portada.jpg)
+![portada](https://github.com/Ironhack-Data-Madrid-Enero-2021/W7-Kaggle_competition/blob/main/images/PORTADA.jpg)
+
 ## Description
 
 - Find the best machine learning model and params for a given dataset. You will do this following the instructions on the Kaggle competition with your cohort name, i.e. **diamonds-datamad0321**, https://www.kaggle.com/c/diamonds-datamad0321
